@@ -1,8 +1,4 @@
 '''
- CS-G513 Assignment #2:
-
- submitted by : Name - Archana.V.E
-                ID   - 2017H1030078H
 
  PROGRAM TO BREAK 2 ROUNDS DES ALGORITHM
 
